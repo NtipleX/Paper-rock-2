@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\NtipreX\Desktop\Projects\PaperRock\Server Project\Project1\Source.cpp(49,10): warning C4101: 'recvbuf': unreferenced local variable
+C:\Users\NtipreX\Desktop\Projects\PaperRock\Server Project\Project1\Source.cpp(50,10): warning C4101: 'sndbuf': unreferenced local variable
+C:\Users\NtipreX\Desktop\Projects\PaperRock\Server Project\Project1\Source.cpp(48,9): warning C4101: 'iSendResult': unreferenced local variable
+C:\Users\NtipreX\Desktop\Projects\PaperRock\Server Project\Project1\Source.cpp(473,10): warning C4101: 'sndbuf': unreferenced local variable
+  Project1.vcxproj -> C:\Users\NtipreX\Desktop\Projects\PaperRock\Server Project\Debug\Project1.exe
